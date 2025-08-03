@@ -76,7 +76,7 @@ sudo cp ./Brother\ DCP-T426W\ CUPS.gz /Library/Printers/PPDs/Contents/Resources
 12. To add support for AirPrint™ and IPP Everywhere™, you need to install OpenPrinting CUPS on a Raspberry Pi, Docker container, or any Linux system of your choice.
 You will need to configure it as described below and use the Brother_DCP-T426W.ppd file created in Step 8.
 
-    * https://www.developer.com/mobile/cups-and-raspberry-pi-airprinting/
+    * https://web.archive.org/web/20230607200007/https://www.developer.com/mobile/cups-and-raspberry-pi-airprinting/
     * https://www.linuxbabe.com/ubuntu/set-up-cups-print-server-ubuntu-bonjour-ipp-samba-airprint
 
 As a result, we have a macOS driver and support of AirPrint™ and IPP Everywhere™, allowing printing from an iPhone or iPad without the need for the Brother iPrint&Scan app.
